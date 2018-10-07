@@ -14,8 +14,10 @@ using System.Threading.Tasks;
 // string обертка над массивом чаров
 namespace DataSetExtension
 {
+    //Add delegate
     public static class ArrayExtension
     {
+        //add
         public const int LowerBase = 2;
         public const int UpperBase = 16;
 
